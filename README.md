@@ -1,6 +1,6 @@
 # Bem-vindo à Minha Página no GitHub! ✋
 
-Olá, sou um profissional dedicado à documentação de sistemas na Progress Rail, com uma paixão por garantir que as informações sejam apresentadas de forma clara e acessível. Minhas principais áreas de atuação incluem:
+Olá, sou uma profissional dedicada à documentação de sistemas na Progress Rail, com uma paixão por garantir que as informações sejam apresentadas de forma clara e acessível. Minhas principais áreas de atuação incluem:
 
 - **Documentação de Sistemas:** Atuo na redação de manuais para os diversos sistemas desenvolvidos pela Progress Rail, utilizando Markdown em conjunto com HTML e LaTex.
   
@@ -19,7 +19,7 @@ Olá, sou um profissional dedicado à documentação de sistemas na Progress Rai
 - E outras ferramentas que potencializam meu trabalho.
   
 Neste espaço, você encontrará projetos que refletem meu comprometimento com a documentação e meu domínio nas tecnologias mencionadas. Sinta-se à vontade para explorar, colaborar e dar feedback. Vamos continuar construindo juntos! 
-Convido você a explorar meus repositórios e a entrar em contato para qualquer colaboração ou troca de ideias. Vamos construir algo incrível! 🚀
+Convido você a explorar meus repositórios e a entrar em contato para qualquer colaboração ou troca de ideias! 🚀
 
 - [Bem-vindo à Minha Página no GitHub! ✋](#bem-vindo-à-minha-página-no-github-)
 
