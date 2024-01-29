@@ -22,5 +22,3 @@ Neste espaço, você encontrará projetos que refletem meu comprometimento com a
 Convido você a explorar meus repositórios e a entrar em contato para qualquer colaboração ou troca de ideias! 🚀
 
 - [Bem-vindo à Minha Página no GitHub! ✋](#bem-vindo-à-minha-página-no-github-)
-
-
