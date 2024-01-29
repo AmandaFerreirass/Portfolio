@@ -1,6 +1,6 @@
-# Truques de HTML no Markdown
+# Truques de HTML no Markdown 🤝
 
-### Você sabia que é possível utilizar HTML no Markdown?
+### Você sabia que é possível utilizar HTML no Markdown? 😃
 
 Primeiro vamos começar com as definições:
 
